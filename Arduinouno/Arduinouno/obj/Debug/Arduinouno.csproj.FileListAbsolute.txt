@@ -1,0 +1,10 @@
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\bin\Debug\Arduinouno.exe.config
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\bin\Debug\Arduinouno.exe
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\bin\Debug\Arduinouno.pdb
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.csprojAssemblyReference.cache
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.Form1.resources
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.Properties.Resources.resources
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.csproj.GenerateResource.cache
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.csproj.CoreCompileInputs.cache
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.exe
+C:\Users\spide\OneDrive\Documents\trabajos se visual\Arduinouno\Arduinouno\obj\Debug\Arduinouno.pdb
